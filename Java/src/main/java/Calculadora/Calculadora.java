@@ -31,7 +31,6 @@ public class Calculadora {
             return 0;
         }
 
-
     }
 
 }
